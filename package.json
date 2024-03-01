@@ -1,6 +1,6 @@
 {
-  "name": "@azoom-dang-van-hoi/zenstack-access-policy",
-  "version": "0.0.2",
+  "name": "@azoom/zenstack-access-policy",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "author": "azoom-dang-van-hoi <dang.van.hoi@azoom.jp>",
   "repository": {
