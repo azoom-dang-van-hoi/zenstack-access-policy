@@ -1,0 +1,11 @@
+/**
+ * A function that checks if a JSON field contains a specific value.
+ */
+function jsonContains(field: Any, search: Any): Boolean {
+} @@@expressionContext([AccessPolicy])
+
+/**
+ * A function that checks if a JSON field contains a specific value.
+ */
+function test(field: Any, search: Any): Boolean {
+} @@@expressionContext([AccessPolicy])
