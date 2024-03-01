@@ -1,6 +1,6 @@
 {
   "name": "@azoom/zenstack-access-policy",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "dist/index.js",
   "author": "azoom-dang-van-hoi <dang.van.hoi@azoom.jp>",
   "repository": {
@@ -19,7 +19,7 @@
     "build": "tsc && cp src/lib.zmodel dist/lib.zmodel && cp src/bin.sh dist/bin.sh"
   },
   "bin": {
-    "app": "./dist/bin.sh"
+    "zenstack-access-policy": "./dist/bin.sh"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
