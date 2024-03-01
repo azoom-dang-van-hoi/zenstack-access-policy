@@ -19,7 +19,7 @@
     "build": "tsc && cp src/lib.zmodel dist/lib.zmodel && cp src/bin.sh dist/bin.sh"
   },
   "bin": {
-    "test-script": "./dist/bin.sh"
+    "app": "./dist/bin.sh"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
